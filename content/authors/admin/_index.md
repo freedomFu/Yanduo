@@ -48,9 +48,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'fuyanduo@mail.nankai.edu.cn'
+  - icon: envelope
+    icon_pack: fas
+    label: fuyanduo@mail.nankai.edu.cn
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -80,5 +80,5 @@ email: 'fuyanduo@mail.nankai.edu.cn'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D student at Nankai University under the supervision of <a href="">Prof. Ding Wang</a>. Before that, I received the joint Master of Engineering degree with the Uninversity and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences. My research interests include identity authentication.
 {style="text-align: justify;"}
