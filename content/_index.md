@@ -73,9 +73,9 @@ sections:
         - title: Eng.D Student
           company: Nankai University
           company_url: 'https://www.nankai.edu.cn/'
-          company_logo: nk.png
-          location: California
-          date_start: '2021-01-01'
+          company_logo: nk
+          location: Tianjin, China
+          date_start: '2022-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
