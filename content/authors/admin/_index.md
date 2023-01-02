@@ -80,5 +80,5 @@ email: 'fuyanduo@mail.nankai.edu.cn'
 highlight_name: true
 ---
 
-I am a Ph.D student at Nankai University under the supervision of <a href="">Prof. Ding Wang</a>. Before that, I received the joint Master of Engineering degree with the Uninversity and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences. My research interests include identity authentication.
+I am a Ph.D student at Nankai University under the supervision of <a href="http://wangdingg.weebly.com/">Prof. Ding Wang</a>. Before that, I received the joint Master of Engineering degree with the Uninversity and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences. My research interests include identity authentication.
 {style="text-align: justify;"}
